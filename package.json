@@ -1,0 +1,10 @@
+{
+  "name": "com.metaalms.gptlocalization",
+  "version": "1.0.0",
+  "displayName": "GPT Localization",
+  "description": "Unity GPT localization package",
+  "unity": "2021.3",
+  "author": {
+    "name": "MetaAlms"
+  }
+}
